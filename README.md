@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My Name is Antonio! I work as a Support IT technician but am also a Data Science student at ASU.
+
+Currently I have experience in SQL, Python and R programming languages
+
+This is a Github profile where I will be sharing previous and current projects completed for my classes.
+
+
 <!--
 **AntonioEsspi/AntonioEsspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
